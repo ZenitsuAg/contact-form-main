@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/contact-form-using-vanilla-html-css-and-js-eocdiQNmuf)
+- Live Site URL: [Vercel](https://contact-form-sigma-rose.vercel.app/)
 
 ## My process
 
