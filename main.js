@@ -53,11 +53,9 @@ document.querySelector('input[type=submit]').addEventListener("click", (e) => {
         //Show success message to user
         successMessage.style.display = 'block'
         successMessage.classList.add('anim')
-        // successMessage.style.transition = 'display 1000ms linear'
 
         setTimeout(() => {
             successMessage.style.display = 'none'
-        // successMessage.style.transition = 'display 1000ms linear'
 
         }, 5000);
     } else {
@@ -118,16 +116,5 @@ function validateRadio(radio, radioError) {
     }
     radioError.style.display = 'block'
 }
-
-// function validateRadio(radioGroup, errorElement) {
-//     const isChecked = Array.from(radioGroup).some(radio => radio.checked)
-//     if (!isChecked) {
-//         errorElement.style.display = 'block'
-//         return false
-//     } else {
-//         errorElement.style.display = 'none'
-//         return true
-//     }
-// }
 
 
